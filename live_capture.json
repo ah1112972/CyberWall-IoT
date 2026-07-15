@@ -1,0 +1,402 @@
+[
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 78,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 78,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 86,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 86,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 78,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 86,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 78,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 78,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 86,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 482,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "UDP",
+        "size": 92,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1202,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    },
+    {
+        "src_ip": "192.168.100.206",
+        "dst_ip": "192.168.100.206",
+        "hostname": "DESKTOP-HCOUBK6",
+        "protocol": "TCP",
+        "size": 94,
+        "status": "\u2705 SAFE"
+    },
+    {
+        "src_ip": "151.101.142.172",
+        "dst_ip": "151.101.142.172",
+        "hostname": "unknown",
+        "protocol": "TCP",
+        "size": 1466,
+        "status": "\u26a0\ufe0f  WARNING"
+    }
+]
