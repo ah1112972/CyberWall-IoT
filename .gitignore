@@ -5,3 +5,5 @@ __pycache__/
 logs/*.json
 *.log
 .vscode/
+data/
+ml/checkpoints*/
